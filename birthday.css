@@ -1,0 +1,11 @@
+body{
+     font-family: 'Pacifico', cursive;text-align: center;margin: 0;
+}
+.parent{
+	margin-top: 0;margin-right: 0;margin-left: 0;
+
+}
+.para{
+  position:absolute;display:block;color:#fdb827;margin-top: 0%;margin-left: 10%;width:80%;font-size: 300%;
+
+}
